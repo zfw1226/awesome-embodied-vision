@@ -219,6 +219,10 @@ IROS, 2023. [[Paper]](https://arxiv.org/abs/2212.05923) [[Video]](https://www.yo
 *Sonia Raychaudhuri, Tommaso Campari, Unnat Jain, Manolis Savva, Angel X. Chang* <br>
 WACV, 2024. [[Paper]](https://openaccess.thecvf.com/content/WACV2024/html/Raychaudhuri_MOPA_Modular_Object_Navigation_With_PointGoal_Agents_WACV_2024_paper.html) [[Video]](https://youtu.be/Jcspov0UpsA)
 
+* **DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**<br>
+*Zhaowei Wang, Hongming Zhang, Tianqing Fang, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu*<br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2410.02730) [[Project page]](https://zhaowei-wang-nlp.github.io/divscene-project-page/)
+
 ### <a name="imagegoal"></a> ImageGoal Navigation
 
 * **Target-driven Visual Navigation in Indoor Scenes using Deep Reinforcement Learning** <br>
@@ -774,6 +778,10 @@ arXiv, 2022. [[Paper]](https://arxiv.org/pdf/2206.06994.pdf) [[Website]](https:/
 * **EgoTV 📺: Egocentric Task Verification from Natural Language Task Descriptions** <br>
 *Rishi Hazra, Brian Chen, Akshara Rai, Nitin Kamra, Ruta Desai* <br>
 ICCV, 2023. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Hazra_EgoTV_Egocentric_Task_Verification_from_Natural_Language_Task_Descriptions_ICCV_2023_paper.pdf) [[Code]](https://github.com/facebookresearch/EgoTV) [[Website]](https://rishihazra.github.io/EgoTV)
+
+* **DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**<br>
+*Zhaowei Wang, Hongming Zhang, Tianqing Fang, Ye Tian, Yue Yang, Kaixin Ma, Xiaoman Pan, Yangqiu Song, Dong Yu*<br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2410.02730) [[Project page]](https://zhaowei-wang-nlp.github.io/divscene-project-page/)
 
 ## <a name="simulators"></a> Simulators
 * **AI2-THOR: An Interactive 3D Environment for Visual AI** <br>
